@@ -30,6 +30,7 @@ requirements:
     - autoconf
     - swig
     - boost-cpp
+    - cgal-cpp
   host:
     - pip
     - pybind11
